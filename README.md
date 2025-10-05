@@ -11,3 +11,6 @@ A curated list of Cybersecurity research papers.
 
 3. **A Review on IoT Security Using ML&DL**
    [Link to paper](https://www.researchgate.net/publication/364118608_A_REVIEW_ON_IOT_SECURITY_USING_MLDL)
+
+4. **Automated Phishing Detection for IoT-Connected Devices Using GenAI**
+   [Link to paper](https://www.researchgate.net/publication/395354023_Automated_Phishing_Detection_for_IoT-Connected_Devices_Using_GenAI)
