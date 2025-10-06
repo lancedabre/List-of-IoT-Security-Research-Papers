@@ -14,3 +14,5 @@ A curated list of Cybersecurity research papers.
 
 4. **Automated Phishing Detection for IoT-Connected Devices Using GenAI**
    [Link to paper](https://www.researchgate.net/publication/395354023_Automated_Phishing_Detection_for_IoT-Connected_Devices_Using_GenAI)
+5. **Enhancing Information Security via Physical Layer Approaches in Heterogeneous IoT With Multiple Access Mobile Edge Computing in Smart City**
+   [Link to paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8703710)
