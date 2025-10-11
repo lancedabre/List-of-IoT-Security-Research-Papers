@@ -1,5 +1,5 @@
 # List-of-IoT-Security-Research-Papers
-A curated list of Cybersecurity research papers.
+A curated list of IoT security research papers.
 
 
 ## Cybersecurity
