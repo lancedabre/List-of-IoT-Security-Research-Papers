@@ -1,4 +1,4 @@
-# List-of-CyberSecurity-Research-Papers
+# List-of-IoT-Security-Research-Papers
 A curated list of Cybersecurity research papers.
 
 
