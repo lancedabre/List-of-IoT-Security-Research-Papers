@@ -17,4 +17,4 @@ A curated list of IoT security research papers.
 5. **Enhancing Information Security via Physical Layer Approaches in Heterogeneous IoT With Multiple Access Mobile Edge Computing in Smart City**
    [Link to paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8703710)
 6. **Leakage of Authorization-Data in IoT Device Sharing: New Attacks and Countermeasure**
-7. [Link to paper] (https://ieeexplore.ieee.org/document/10285391)
+   [Link to paper] (https://ieeexplore.ieee.org/document/10285391)
