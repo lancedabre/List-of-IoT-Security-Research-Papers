@@ -20,3 +20,5 @@ A curated list of IoT security research papers.
    [Link to paper](https://ieeexplore.ieee.org/document/10285391)
 7. **An In-Depth Analysis of IoT Security Requirements, Challenges, and Their Countermeasures via Software-Defined Security**
    [Link to paper](https://ieeexplore.ieee.org/document/9099839)
+8. **A Review of Security Standards and Frameworks for IoT-Based Smart Environments**
+   [Link to paper](https://ieeexplore.ieee.org/document/9528421)
