@@ -18,3 +18,5 @@ A curated list of IoT security research papers.
    [Link to paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8703710)
 6. **Leakage of Authorization-Data in IoT Device Sharing: New Attacks and Countermeasure**
    [Link to paper](https://ieeexplore.ieee.org/document/10285391)
+7. **An In-Depth Analysis of IoT Security Requirements, Challenges, and Their Countermeasures via Software-Defined Security**
+   [Link to paper](https://ieeexplore.ieee.org/document/9099839)
