@@ -22,3 +22,5 @@ A curated list of IoT security research papers.
    [Link to paper](https://ieeexplore.ieee.org/document/9099839)
 8. **A Review of Security Standards and Frameworks for IoT-Based Smart Environments**
    [Link to paper](https://ieeexplore.ieee.org/document/9528421)
+9. **The Effect of IoT New Features on Security and Privacy: New Threats, Existing Solutions, and Challenges Yet to Be Solved**
+   [Link to paper](https://ieeexplore.ieee.org/document/8386824)
